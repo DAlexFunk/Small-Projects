@@ -13,6 +13,7 @@ April 2023
 ## How to use
 
 * Load the hangman.py file and run it.
+* All 3 files are needed for it to run properly.
 * The user can either choose to be the guesser or come up with the word for the computer to guess.
 * There is no algorithm behind the computer's guesses and they are completely random.
 
