@@ -18,4 +18,4 @@ April 2023
 
 ## Credits
 
-* My high school python professor for teaching me Python and helping me realize that this is what I want to do.
+* My high school Python professor for teaching me Python and helping me realize that this is what I want to do.
